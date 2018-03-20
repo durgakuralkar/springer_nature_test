@@ -1,6 +1,5 @@
 package main.applicationConstant;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class ApplicationMessages.
  */

@@ -7,7 +7,6 @@ import java.io.FileReader;
 import main.applicationConstant.ApplicationMessages;
 import main.coreOperation.StringOperation;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class ReadFileFromDirectory.
  */

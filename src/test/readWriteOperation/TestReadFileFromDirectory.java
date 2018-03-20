@@ -8,7 +8,6 @@ import org.junit.Test;
 
 import main.readWriteOperation.ReadFileFromDirectory;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class TestReadFileFromDirectory.
  */

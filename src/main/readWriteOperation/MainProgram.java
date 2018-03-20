@@ -6,7 +6,6 @@ import java.io.File;
 
 import main.applicationConstant.ApplicationMessages;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class MainProgram.
  */

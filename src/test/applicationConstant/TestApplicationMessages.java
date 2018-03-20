@@ -1,6 +1,5 @@
 package test.applicationConstant;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class TestApplicationMessages.
  */
